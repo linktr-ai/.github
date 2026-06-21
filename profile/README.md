@@ -1,6 +1,8 @@
-## LinkTR AI: Everything you are. In one, simple link in bio.
+## AI-powered competitive intelligence that tracks company changes and turns them into actionable signals — before your competitors notice.
 
-using LinkTR for their link in bio. One link to help you share everything you create, curate and sell from your YouTube, Instagram, TikTok, Twitter and other social media profiles.
+LinkTR AI monitors company websites, job boards, filings, and public signals 24/7, then uses AI to filter noise from what actually matters. Get instant alerts on pricing changes, hiring surges, product launches, and strategic moves — delivered to your inbox, Slack, or dashboard with business impact analysis built in.
+
+- AI competitive intelligence — track company changes before everyone else
 
 ---
 
